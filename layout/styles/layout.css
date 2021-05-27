@@ -322,7 +322,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#ff9c3f !important;}
 
 
 /* Rows */
-.row0{color:#bdbdbd; background-color:#302f2f;}
+.row0{color:#bdbdbd; background-color:#313131;}
 .row1{color:#FFFFFF; background-color:#ffae00;}
 .row2{color:#474747; background-color:#000000ce;}
 .row3{color:#474747; background-color:#000000;}
@@ -496,3 +496,46 @@ p {
 h6 {
 	color: white;
 }
+
+/* Style the navigation menu */
+.topnav {
+	overflow: hidden;
+	background-color: #313131;
+	position: relative;
+  }
+  
+  /* Hide the links inside the navigation menu (except for logo/home) */
+  .topnav #myLinks {
+	display: none;
+  }
+  
+  /* Style navigation menu links */
+  .topnav a {
+	color: rgb(255, 253, 253);
+	padding: 5px 20px;
+	text-decoration: none;
+	font-size: 17px;
+	display: block;
+	
+  }
+  
+  /* Style the hamburger menu */
+  .topnav a.icon {
+	background-color: #303030;
+	display: block;
+	position: fixed;
+	right: 0;
+	top: 0;
+  }
+  
+  /* Add a grey background color on mouse-over */
+  .topnav a:hover {
+	background-color: rgb(24, 19, 19);
+	color: rgb(255, 254, 254);
+  }
+  
+  /* Style the active link (or home/logo) */
+  .active {
+	background-color: #23694d;
+	color: white;
+  }

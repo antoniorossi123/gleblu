@@ -500,7 +500,7 @@ h6 {
 /* Style the navigation menu */
 .topnav {
 	overflow: hidden;
-	background-color: #313131;
+	background-color: #00000085;
 	position: relative;
   }
   
@@ -511,12 +511,11 @@ h6 {
   
   /* Style navigation menu links */
   .topnav a {
-	color: rgb(255, 253, 253);
+	color: rgb(255, 255, 255);
 	padding: 5px 20px;
 	text-decoration: none;
 	font-size: 17px;
 	display: block;
-	
   }
   
   /* Style the hamburger menu */

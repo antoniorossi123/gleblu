@@ -538,3 +538,19 @@ h6 {
 	background-color: #23694d;
 	color: white;
   }
+
+
+
+.donazione {
+	position: absolute;
+	top: 250px; left: 1700px;
+    
+}
+
+.textd {
+   color:rgb(235, 180, 0)
+}
+
+.td2 {
+  color: red;
+}

@@ -303,7 +303,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#ff9c3f !important;}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.7);}
 
-.btn, .btn.inverse:hover{color:#3f9fc7; background-color:#ffae00; border-color:#ffae00;}
+.btn, .btn.inverse:hover{color:#000000; background-color:#ffae00; border-color:#ffae00;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 .imgover:hover::before{background:rgba(0,0,0,.55);}

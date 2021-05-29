@@ -1,13 +1,4 @@
 @charset "utf-8";
-/*
-Template Name: Gleblu
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Copyright: OS-Templates.com
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Layout CSS
-*/
 
 @import url("fontawesome-free/css/fontawesome-all.min.css");
 @import url("framework.css");
@@ -312,7 +303,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#ff9c3f !important;}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.7);}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#FF3F4A; border-color:#FF3F4A;}
+.btn, .btn.inverse:hover{color:#2b1894; background-color:#ffae00; border-color:#ffae00;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 .imgover:hover::before{background:rgba(0,0,0,.55);}

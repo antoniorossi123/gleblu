@@ -345,7 +345,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#ff9c3f !important;}
 
 /* Content Area */
 .overview a{color:inherit;}
-.overview article:hover a{color:#FF3F4A;}
+.overview article:hover a{color:#ffc23f;}
 
 #testimonials blockquote{color:#474747; background-color:#FFFFFF;}
 #testimonials blockquote:hover{color:#FFFFFF; background-color:#A60009;}
